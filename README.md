@@ -11,6 +11,7 @@ A lightweight tool built for Minecraft Bedrock creators, this generator streamli
 - 📝 Customizable pack name, description, and version
 - ⚡ Instant preview of the final `manifest.json`
 - 📦 Easy export or copy-paste for direct use in Minecraft
+- ⬇️ Download the `manifest.json` directly
 
 ---
 
