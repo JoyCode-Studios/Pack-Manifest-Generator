@@ -28,7 +28,7 @@ A lightweight tool built for Minecraft Bedrock creators, this generator streamli
 
 ## 🔗 Live Demo
 
-Try it out [here](pack-manifest-generator.pages.dev/)  
+Try it out [here](https://pack-manifest-generator.pages.dev/)  
 ---
 
 ## 📁 File Structure
